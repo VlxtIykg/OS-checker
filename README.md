@@ -15,7 +15,7 @@ terminal,<br>
 <abbr title="Central Processing Unit">CPU</abbr> <br>
 ![image](https://user-images.githubusercontent.com/97310758/160301337-357a4561-84cf-4c84-8741-ed6007ba0792.png)
 
-Packages using dpkg --list (I am currently on ubuntu) <br>
+Packages using dpkg --list (I am currently on **ubuntu**) <br>
 ![image](https://user-images.githubusercontent.com/97310758/160301364-73fc2b8a-19e5-4d64-b840-7ae5c9d54626.png)
 
 Kernel <br>
